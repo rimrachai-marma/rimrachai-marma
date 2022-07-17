@@ -35,9 +35,11 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Git" width="26px" src="./icons/github-light.svg#gh-light-mode-only"/>
 <img align="left" alt="Git" width="26px" src="./icons/github-dark.svg#gh-dark-mode-only"/>
 
----
+## <br/>
 
-![Rimrachai Marma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimrachai-marma&show_icons=true&theme=radical)
+### :zap: GitHub Stats
+
+![Rimrachai Marma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimrachai-marma&show_icons=true&theme=tokyonight)
 
 <br/>
 <br/>
