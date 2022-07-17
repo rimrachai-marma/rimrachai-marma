@@ -13,6 +13,8 @@ rimrachai-marma/rimrachai-marma is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
+![Alt Text](./images/coding.gif)
+
 ### Connect with me:
 
 [<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
