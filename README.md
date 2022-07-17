@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="./icon/linkedin.svg" />][linkedin]
+[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="./icons/linkedin.svg" />][linkedin]
 
 [![website](./icons/linkedin.svg)][linkedin]
 
