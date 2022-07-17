@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="./icons/terminal-light.svg#gh-light-mode-only"/>
 <img align="left" alt="Git" width="26px" src="./icons/terminal-dark.svg#gh-dark-mode-only"/>
+<img align="left" alt="Git" width="26px" src="./icons/github-light.svg#gh-light-mode-only"/>
+<img align="left" alt="Git" width="26px" src="./icons/github-dark.svg#gh-dark-mode-only"/>
 
 <br/>
 <br/>
