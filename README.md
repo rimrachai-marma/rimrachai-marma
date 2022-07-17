@@ -17,11 +17,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="./icons/linkedin-light.svg#gh-light-mode-only" />][linkedin]
-[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="./icons/linkedin-dark.svg#gh-dark-mode-only" />][linkedin]
+[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="./icons/linkedin-light.svg#gh-light-mode-only" />](https://linkedin.com/in/rimrachai-marma)
+[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="./icons/linkedin-dark.svg#gh-dark-mode-only" />](https://linkedin.com/in/rimrachai-marma)
 
-![website](./icons/linkedin-light.svg#gh-light-mode-only)[linkedin]
-![website](./icons/linkedin-dark.svg#gh-dark-mode-only)[linkedin]
+[![website](./icons/linkedin-light.svg#gh-light-mode-only)](https://linkedin.com/in/rimrachai-marma)
+[![website](./icons/linkedin-dark.svg#gh-dark-mode-only)](https://linkedin.com/in/rimrachai-marma)
 <br />
 
 ### Languages and Tools:
