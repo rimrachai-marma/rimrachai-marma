@@ -31,13 +31,9 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w2.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b2.png">
-      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-    </picture>
-</p>
+![Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg?theme=dark
+or
+![Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg?theme=light
 
 <br />
 <br />
