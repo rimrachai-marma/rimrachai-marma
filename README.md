@@ -1,6 +1,6 @@
 # Hi there, I'm Rimrachai Marma 👋
 
-## I'm a Fullstack Web Developer!!
+### Fullstack Web Developer!!
 
 Seeking a challenging yet rewarding career with a progressive organization that provides the opportunity for development.
 
@@ -13,11 +13,13 @@ rimrachai-marma/rimrachai-marma is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![Alt Text](./images/coding.gif)
+![coding](./images/coding.gif)
 
 ### Connect with me:
 
-[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="./icons/linkedin-light.svg#gh-light-mode-only" />][linkedin]
+
+[<img align="left" alt="rimrachai-marma | LinkedIn" width="22px" src="./icons/linkedin-dark.svg#gh-dark-mode-only" />][linkedin]
 
 <br />
 
