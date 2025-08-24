@@ -51,4 +51,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-[linkedin]: https://linkedin.com/in/rimrachai-marma
+[linkedin]: https://www.linkedin.com/in/rimrachai-marma
+[website]: https://rimra.vercel.app
+[insta]: https://www.instagram.com/rimra_
+
