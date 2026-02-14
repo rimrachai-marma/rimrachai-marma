@@ -1,6 +1,6 @@
 # Hi there, I'm Rimrachai Marma 👋
 
-### Fullstack Web Developer!!
+### Software Developer!!
 
 Seeking a challenging yet rewarding career with a progressive organization that provides the opportunity for development.
 
